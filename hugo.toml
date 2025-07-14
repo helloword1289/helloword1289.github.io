@@ -3,6 +3,10 @@ languageCode = 'zh-cn'
 title = '我的技术博客'
 theme = 'PaperMod'
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [params]
 defaultTheme = "auto"
 ShowShareButtons = true
